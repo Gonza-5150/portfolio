@@ -66,21 +66,21 @@ export const projects = [
     name: "Star Wars Blog",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio1.jpeg",
+    image: "starwars.jpg",
     url:"https://github.com/Gonza-5150/StarWars-blog"
   },
   {
     name: "Landing React",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio2.jpg",
+    image: "alerces-1024x1024.jpg",
     url:"https://github.com/Gonza-5150/landing_alerces"
   },
   {
     name: "Excuse Generator",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio3.png",
+    image: "excuse.jpg",
     url:"https://github.com/Gonza-5150/excuse_generator"
   },
   {

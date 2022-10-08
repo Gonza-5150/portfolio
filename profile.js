@@ -27,15 +27,23 @@ export const skills = [
     skill: "Git/GitHub",
     percentage: 70,
   },
+  {
+    skill: "Arduino",
+    percentage: 75,
+  },
+  {
+    skill: "IOT",
+    percentage: 70,
+  },
 ];
 
 export const experiences = [
   {
     title: "Generazion Srl.",
     description:
-      "Project Manager and Sales Manager in a renewable energy company. Working in Patagonia region",
+      "Project Manager and Sales Manager in a renewable energy company. Working in Patagonia region giving green energy solutions",
     from: 2022,
-    to: 2022,
+    
   },
   {
     title: "Salud Ambiente",

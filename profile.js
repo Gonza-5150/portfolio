@@ -1,54 +1,55 @@
 export const skills = [
   {
-    skill: "Javascript",
-    percentage: 100,
+    skill: "Python",
+    percentage: 85,
   },
   {
-    skill: "Golang",
+    skill: "JavaScript",
+    percentage: 70,
+  },
+  {
+    skill: "Flask",
     percentage: 80,
   },
   {
-    skill: "Nodejs",
-    percentage: 90,
-  },
-  {
-    skill: "Blockchain",
-    percentage: 40,
-  },
-  {
-    skill: "Physics",
+    skill: "ReactJS",
     percentage: 70,
   },
   {
-    skill: "Economics",
+    skill: "SQL",
     percentage: 70,
   },
   {
-    skill: "Machine Learning",
+    skill: "Linux",
+    percentage: 65,
+  },
+  {
+    skill: "Git/GitHub",
     percentage: 70,
   },
 ];
 
 export const experiences = [
   {
-    title: "Software developer at Microsoft",
+    title: "Generazion Srl.",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2000,
-    to: 2005,
+      "Project Manager and Sales Manager in a renewable energy company. Working in Patagonia region",
+    from: 2022,
+    to: 2022,
   },
   {
-    title: "Software developer at Google",
+    title: "Salud Ambiente",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2005,
-    to: 2007,
+      "Tecnical Manager, Team Leader and partner of a Pest Control company in Buenos Aires, Argentina. Teaching courses to large companies",
+    from: 2013,
+    to: 2022,
   },
   {
-    title: "Software developer at SpaceX",
+    title: "Duxelles Srl.",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
+      "Partner and duty manager in a gastronomic company. ",
     from: 2010,
+    to: 2012,
   },
 ];
 

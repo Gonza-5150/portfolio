@@ -11,7 +11,7 @@ const Index = () => (
         <div className="card card-body bg-secondary text-light animate__animated animate__fadeIn">
           <div className="row">
             <div className="col-md-4">
-              <img src="/ryan-ray-profile2.jpeg" alt="" className="img-fluid" />
+              <img src="/Gonza.jpg" alt="" className="img-fluid" />
             </div>
             <div className="col-md-8">
               <h1>Gonzalo Esteves</h1>
@@ -68,17 +68,14 @@ const Index = () => (
 
             <ul>
               {/* List Item Experience */}
-              {experiences.map(({ title, from, to }, index) => (
+              {experiences.map(({ title, description, from, to }, index) => (
                 <li key={index}>
                   <h3>{title}</h3>
                   <h5>
                     {from} {to ? `- ${to}` : "- current"}
                   </h5>
                   <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Sint excepturi ea explicabo. Illum suscipit illo, porro
-                    quisquam voluptatem officiis fugiat vel animi aliquam
-                    inventore rem. Quo laudantium temporibus cupiditate. Aut?
+                    {description}
                   </p>
                 </li>
               ))}

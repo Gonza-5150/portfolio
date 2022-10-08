@@ -8,7 +8,7 @@ const Index = () => (
     {/* Header Card */}
     <header className="row">
       <div className="col-md-12">
-        <div className="card card-body bg-secondary text-light animate__animated animate__fadeIn">
+        <div className="card card-body bg-dark text-white animate__animated animate__fadeIn">
           <div className="row">
             <div className="col-md-4">
               <img src="/Gonza.jpg" alt="" className="img-fluid rounded float-start" />
@@ -80,8 +80,8 @@ const Index = () => (
                 </li>
               ))}
             </ul>
-            <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113">
-              <a className="btn btn-light">Know More</a>
+            <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113" >
+              <a className="btn btn-light" target="_blank">Know More</a>
             </Link>
           </div>
         </div>
@@ -96,7 +96,7 @@ const Index = () => (
               <div className="col-md-12 my-2">
                 <h1 className="text-center text-light">Portfolio</h1>
               </div>
-              {projects.map(({ name, description, image }, index) => (
+              {projects.map(({ name, description, image, url }, index) => (
                 <div className="col-md-4 p-2" key={index}>
                   <div className="card h-100">
                     <div className="overflow">
@@ -109,7 +109,7 @@ const Index = () => (
                     <div className="card-body">
                       <h3>{name}</h3>
                       <p>{description}</p>
-                      <a href="#!">Know More</a>
+                      <a href={url} target="_blank">Know More</a>
                     </div>
                   </div>
                 </div>

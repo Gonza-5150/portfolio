@@ -63,40 +63,46 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Awesome Website 1",
+    name: "Star Wars Blog",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio1.jpeg",
+    url:"https://github.com/Gonza-5150/StarWars-blog"
   },
   {
-    name: "Awesome Website 2",
+    name: "Landing React",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio2.jpg",
+    url:"https://github.com/Gonza-5150/landing_alerces"
   },
   {
-    name: "Awesome Website 3",
+    name: "Excuse Generator",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio3.png",
+    url:"https://github.com/Gonza-5150/excuse_generator"
   },
   {
     name: "Awesome Website 4",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio4.png",
+    url:""
   },
   {
     name: "Awesome Website 5",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio5.jpeg",
+    url:""
   },
   {
     name: "Awesome Website 6",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio6.jpeg",
+    url:""
   },
 ];
 

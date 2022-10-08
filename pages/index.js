@@ -14,13 +14,14 @@ const Index = () => (
               <img src="/ryan-ray-profile2.jpeg" alt="" className="img-fluid" />
             </div>
             <div className="col-md-8">
-              <h1>Ryan Ray</h1>
+              <h1>Gonzalo Esteves</h1>
               <h3>Full Stack Developer</h3>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Molestiae atque ullam perferendis harum, nisi porro voluptate,
-                iste consequuntur enim reprehenderit architecto consectetur cum?
-                Totam ad molestias natus illum illo officia.
+              Jr Full Stack programmer and agronomist. 
+              Amateur musician and luthier student. 
+              Born in Buenos Aires, currently living in Patagonia. 
+              Making my way within the renewable energy industry and programming. 
+              More than 16 years of experience in integrated pest management teaching courses and training for large companies.
               </p>
               <Link href="/hireme">
                 <a className="btn btn-outline-light">Hire Me</a>

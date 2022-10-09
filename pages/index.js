@@ -23,8 +23,8 @@ const Index = () => (
               Making my way within the renewable energy industry and programming. 
               More than 16 years of experience in integrated pest management teaching courses and training for large companies.
               </p>
-              <Link href="/hireme">
-                <a className="btn btn-outline-light">Hire Me</a>
+              <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113">
+                <a className="btn btn-outline-light" target="_blank">Hire Me</a>
               </Link>
             </div>
           </div>

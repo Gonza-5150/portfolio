@@ -84,18 +84,18 @@ export const projects = [
     url:"https://github.com/Gonza-5150/excuse_generator"
   },
   {
-    name: "Awesome Website 4",
+    name: "Espías (basic landing)",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio4.png",
-    url:""
+    url:"https://p2dxftrtg0pzca8ptsuolq.on.drv.tw/esp%C3%ADas%20web/"
   },
   {
-    name: "Awesome Website 5",
+    name: "Ellegua (Basic e-commerce",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio5.jpeg",
-    url:""
+    url:"https://p2dxftrtg0pzca8ptsuolq.on.drv.tw/maiu%20web/"
   },
   {
     name: "Awesome Website 6",

@@ -84,7 +84,7 @@ export const projects = [
     url:"https://github.com/Gonza-5150/excuse_generator"
   },
   {
-    name: "Espías (basic landing)",
+    name: "Espías (Basic landing)",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio4.png",

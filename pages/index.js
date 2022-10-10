@@ -11,7 +11,7 @@ const Index = () => (
         <div className="card card-body bg-dark text-white animate__animated animate__fadeIn">
           <div className="row">
             <div className="col-md-4">
-              <img src="/Gonza.jpg" alt="" className="img-fluid rounded float-start" />
+              <img src="/gonza.jpg" alt="" className="img-fluid rounded float-start" />
             </div>
             <div className="col-md-8">
               <h1>Gonzalo Esteves</h1>

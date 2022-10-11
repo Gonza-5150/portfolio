@@ -18,7 +18,7 @@ const Post = () => {
           style={{ width: "50%" }}
           className="img-fluid"
         />
-        <p className="p-4">{currentPost.content}</p>
+        <p className="p-4"><strong>{currentPost.content}</strong></p>
       </div>
     </Layout>
   );

@@ -117,8 +117,10 @@ export const posts = [
   {
     title: "Courses",
     content:
-      "IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies\
-      ",
+      "IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies (Yonsei University) ·\
+      Programación Orientada a Objetos con Python (Universidad Austral) ·\
+      Python sin fronteras: HTML, CSS, Flask y MySQL ( Nicolas Schurmann, Udemy) ·\
+      Master en Arduino 2022 ¡IoT! Internet oF Things (Pablo Luis Sanchez Stahlschmidt)",
     imageURL:
       "program.webp",
   },

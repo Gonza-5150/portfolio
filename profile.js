@@ -117,14 +117,18 @@ export const posts = [
   {
     title: "Courses",
     content:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies\
+      ",
     imageURL:
       "program.webp",
   },
   {
     title: "Hobbies",
     content:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Músico amateur, guitarrista y bajista de estilos varios que van desde el jazz clásico hasta el new metal.\
+       Estudiante de luthería, desde hace unos años aprendiendo a fabricar mis própios intrumentos.\
+       Formo parte de la fundación Vamos, dedicada a realizar proyectos para escuelas rurales en varias provincias de Argentina.\
+       Amante del aire libre y de viajar.",
     imageURL:
       "Archtop.jpg",
   },

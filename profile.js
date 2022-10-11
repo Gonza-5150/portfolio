@@ -93,14 +93,14 @@ export const projects = [
   {
     name: "Ellegua (Basic e-commerce",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Basic EComerce using google forms for data acquisition. Ideal site for entrepreneur, craftsman and self employed",
     image: "portfolio5.jpeg",
     url:"https://p2dxftrtg0pzca8ptsuolq.on.drv.tw/maiu%20web/"
   },
   {
     name: "ToDo with fetch",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Simple and classic ToDo. Bootstrap 5 and React. Using a public API, a tipic CRUD app.",
     image: "to-do-list-apps.png",
     url:"https://todo-fetch-gray.vercel.app/"
   },

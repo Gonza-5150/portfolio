@@ -74,14 +74,14 @@ export const projects = [
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "alerces-1024x1024.jpg",
-    url:"https://github.com/Gonza-5150/landing_alerces"
+    url:"https://landing-alerces.vercel.app/#"
   },
   {
     name: "Excuse Generator",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "excuse.jpg",
-    url:"https://github.com/Gonza-5150/excuse_generator"
+    url:"https://excuse-generator-two.vercel.app/"
   },
   {
     name: "Espías (Basic landing)",
@@ -98,11 +98,11 @@ export const projects = [
     url:"https://p2dxftrtg0pzca8ptsuolq.on.drv.tw/maiu%20web/"
   },
   {
-    name: "Awesome Website 6",
+    name: "ToDo with fetch",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio6.jpeg",
-    url:""
+    image: "to-do-list-apps.png",
+    url:"https://todo-fetch-gray.vercel.app/"
   },
 ];
 

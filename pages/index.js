@@ -23,7 +23,7 @@ const Index = () => (
               Making my way within the renewable energy industry and programming. 
               More than 16 years of experience in integrated pest management teaching courses and training for large companies.
               </p>
-              <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113">
+              <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113" legacyBehavior>
                 <a className="btn btn-outline-light" target="_blank">Hire Me</a>
               </Link>
             </div>
@@ -80,7 +80,7 @@ const Index = () => (
                 </li>
               ))}
             </ul>
-            <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113" >
+            <Link href="https://linkedin.com/in/gonzalo-esteves-9662a113" legacyBehavior >
               <a className="btn btn-light" target="_blank">Know More</a>
             </Link>
           </div>
@@ -117,7 +117,7 @@ const Index = () => (
 
               <div className="col-md-12 mt-4">
                 <div className="text-center">
-                  <Link href="/portfolio">
+                  <Link href="/portfolio" legacyBehavior>
                     <a className="btn btn-outline-light">More Projects</a>
                   </Link>
                 </div>

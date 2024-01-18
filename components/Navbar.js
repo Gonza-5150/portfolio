@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
-        <Link href="/">
+        <Link href="/" legacyBehavior>
           <a className="navbar-brand">My Portfolio</a>
         </Link>
         <button
@@ -21,14 +21,14 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <Link href="/blog">
+              <Link href="/blog" legacyBehavior>
                 <a className="nav-link active" aria-current="page">
                   Blog
                 </a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/github">
+              <Link href="/github" legacyBehavior>
                 <a className="nav-link">
                  Github 
                 </a>

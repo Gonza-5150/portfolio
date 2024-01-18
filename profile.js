@@ -4,7 +4,7 @@ export const skills = [
     percentage: 85,
   },
   {
-    skill: "JAva",
+    skill: "Java",
     percentage: 50,
   },
   {

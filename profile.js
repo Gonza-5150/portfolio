@@ -4,6 +4,10 @@ export const skills = [
     percentage: 85,
   },
   {
+    skill: "JAva",
+    percentage: 50,
+  },
+  {
     skill: "JavaScript",
     percentage: 70,
   },
@@ -14,6 +18,10 @@ export const skills = [
   {
     skill: "ReactJS",
     percentage: 70,
+  },
+  {
+    skill: "Angular",
+    percentage: 75,
   },
   {
     skill: "SQL",
@@ -39,11 +47,18 @@ export const skills = [
 
 export const experiences = [
   {
+    title: "Wordfast",
+    description:
+      "FullStack Java/Angular and SQL. Developing solutions for translators.",
+    from: 2023.
+    
+  },
+  {
     title: "Generazion Srl.",
     description:
       "Project Manager and Sales Manager in a renewable energy company. Working in Patagonia region giving green energy solutions",
     from: 2022,
-    
+    to: 2022,
   },
   {
     title: "Salud Ambiente",
@@ -110,7 +125,7 @@ export const posts = [
   {
     title: "Education",
     content:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "University of Veterinary Sciences UBA. 4Geeks Academy Fullstack Bootcamp and many other courses and trainings including OOP, Angular, Data Science and Linux.",
     imageURL:
       "edu.webp",
   },
